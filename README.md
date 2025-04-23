@@ -82,6 +82,6 @@ Let's connect!
 
 ---
 
-Thank you for reviewing my Python portfolio! I hope these projects showcase my skills and enthusiasm for working with data.
+Thank you for reviewing my Tableau portfolio! I hope these projects showcase my skills and enthusiasm for working with data.
 
 ---
