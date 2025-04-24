@@ -15,11 +15,11 @@ This project uses Tableau to uncover the drivers behind customer churn in a tele
 - **[Tableau File](Customer_Churn.twbx)** – Tableau workbook with calculated fields, custom charts, and storyboards for churn analysis
 - **[Data](Databel-Data.csv)** – Cleaned dataset including customer demographics, service usage, and churn labels
 - **README.md** – You're here!
-- **[Interactive Dashboard](https://public.tableau.com/app/profile/chiranjeevi.nalapalu/viz/Customer_Churn_17449891659040/Summary)** – Direct link to Tableau Public visualization
+- **[Interactive Dashboard](https://public.tableau.com/app/profile/chiranjeevi.nalapalu/viz/Customer_Churn_17454825388620/Summary)** – Direct link to Tableau Public visualization
 
 ## 🌐 Live Dashboard
 
-👉 [**View the Dashboard on Tableau Public**](https://public.tableau.com/app/profile/chiranjeevi.nalapalu/viz/Customer_Churn_17449891659040/Summary)
+👉 [**View the Dashboard on Tableau Public**](https://public.tableau.com/app/profile/chiranjeevi.nalapalu/viz/Customer_Churn_17454825388620/Summary)
 
 ## 🛠 Skills Learned 
 
