@@ -4,7 +4,8 @@
 
 This project uses Tableau to uncover the drivers behind customer churn in a telecom company, Databel, aiming to uncover insights about customer behavior. Understanding churn involves more than just knowing the churn rate; it requires identifying the root causes and devising strategies to reduce customer attrition. By leveraging Tableau's advanced features like calculated fields, dual-axis graphs, scatter plots, filters, and parameters, this analysis transforms raw data into actionable insights through compelling visual dashboards.
 
-![alt text](Screenshot1.png)
+![alt text](Screenshot1.png|width=100)
+<img src="Screenshot1.png" width="48">
 
 ## 📁 Contents
 
