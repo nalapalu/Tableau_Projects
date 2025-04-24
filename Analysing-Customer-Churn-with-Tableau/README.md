@@ -63,7 +63,7 @@ Interactive dashboard showcasing metrics distribution (e.g., service calls, cust
 ### 📍 Payment Method and Contract Types
 Scatter plot displaying churn rate vs. account length for different payment methods and contract types, enriched with text fields indicating total and average service calls.
 
-![alt text](Screenshot3.png)
+![alt text](Screenshot2.png)
 
 ### 📍 Data Plan and International Charges
 Highlight table and grouped bar chart illustrating churn rates as a function of international charges and data plans.
