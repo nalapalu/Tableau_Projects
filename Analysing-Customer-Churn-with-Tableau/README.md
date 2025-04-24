@@ -4,8 +4,11 @@
 
 This project uses Tableau to uncover the drivers behind customer churn in a telecom company, Databel, aiming to uncover insights about customer behavior. Understanding churn involves more than just knowing the churn rate; it requires identifying the root causes and devising strategies to reduce customer attrition. By leveraging Tableau's advanced features like calculated fields, dual-axis graphs, scatter plots, filters, and parameters, this analysis transforms raw data into actionable insights through compelling visual dashboards.
 
-![alt text](Screenshot1.png|width=100)
-<img src="Screenshot1.png" width="48">
+
+<p align="center">
+  <img src="Screenshot1.png" width="500">
+</p>
+
 
 ## 📁 Contents
 
@@ -54,22 +57,29 @@ This project uses Tableau to uncover the drivers behind customer churn in a tele
 ### 📍 Overview
 Visualization highlighting key KPIs from the study, including churn rate and number of churned customers. It also highlights the main reasons for the churning in a stacked bar chart and categories shown in pie chart. A map showing churn rates by state with a tool tip showing additional information. 
 
-![alt text](Screenshot1.png)
+<p align="center">
+  <img src="Screenshot1.png" width="500">
+</p>
 
 ### 📍 Age Brackets and Groups
 Interactive dashboard showcasing metrics distribution (e.g., service calls, customer count) across various age brackets and group numbers. Includes filters for payment method, international plan, account length, and more. 
 
-![alt text](Screenshot2.png)
+<p align="center">
+  <img src="Screenshot2.png" width="500">
+</p>
 
 ### 📍 Payment Method and Contract Types
 Scatter plot displaying churn rate vs. account length for different payment methods and contract types, enriched with text fields indicating total and average service calls.
 
-![alt text](Screenshot3.png)
-
+<p align="center">
+  <img src="Screenshot3.png" width="500">
+</p>
 ### 📍 Data Plan and International Charges
 Highlight table and grouped bar chart illustrating churn rates as a function of international charges and data plans.
 
-![alt text](Screenshot4.png)
+<p align="center">
+  <img src="Screenshot4.png" width="500">
+</p>
 
 ## 🧠 Insights & Takeaways
 
